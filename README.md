@@ -49,7 +49,7 @@
     <!-- <img src="https://github.r2v.ch/codewars?user=dewlar&theme=gradient_light"> -->
     
   <a href="https://www.codewars.com/users/dewlar">
-    <img src="https://github.r2v.ch/codewars?user=dewlar&theme=gradient_light" alt="Codewars"/>
+    <img src="https://github.r2v.ch/codewars?user=dewlar&theme=gradient_light" alt="Codewars" height="165"/>
   </a>
     <!-- <img src="https://www.codewars.com/users/dewlar/badges/large"> -->
 </div>
